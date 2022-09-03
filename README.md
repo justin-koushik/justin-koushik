@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @justin-koushik
-- 👀 I’m interested in coding stuff
-- 🌱 I’m currently learning chemical engineering at IIT MADRAS
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Krishna Koushik, newbie on git
+- 👀 I’m interested in animating stuff
+- 🌱 I’m currently learning chemical engineering at *IIT MADRAS*
+- 💞️ I’m looking to collaborate on javascript animations
 - 📫 How to reach me ...
 
 <!---
